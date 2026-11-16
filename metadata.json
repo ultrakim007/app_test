@@ -1,0 +1,6 @@
+{
+  "name": "오늘 약·물",
+  "description": "시니어를 위한 큰 글씨 오늘 약 복용 및 물 마시기 체크 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">오늘 약·물</string>
+    <string name="med_section_title">오늘 드실 약</string>
+    <string name="med_morning_title">아침 약</string>
+    <string name="med_morning_subtitle">아침 식사 후 드세요</string>
+    <string name="med_lunch_title">점심 약</string>
+    <string name="med_lunch_subtitle">점심 식사 후 드세요</string>
+    <string name="med_dinner_title">저녁 약</string>
+    <string name="med_dinner_subtitle">저녁 식사 후 드세요</string>
+    <string name="med_status_taken">복용 완료</string>
+    <string name="med_status_pending">눌러서 체크</string>
+    <string name="med_summary_progress">약 %1$d개 중 %2$d개 복용</string>
+    <string name="med_summary_all_done">오늘 약을 모두 드셨어요!</string>
+    <string name="water_section_title">오늘 마신 물</string>
+    <string name="water_cup_unit">%1$d잔</string>
+    <string name="water_goal_status">하루 권장 8잔 중 %1$d잔</string>
+    <string name="water_goal_reached">오늘 물 8잔 목표 달성!</string>
+    <string name="water_add_button">물 한 잔 마셨어요 (+1컵)</string>
+    <string name="water_undo_button">방금 1잔 취소</string>
+    <string name="cd_med_icon_morning">아침 아이콘</string>
+    <string name="cd_med_icon_lunch">점심 아이콘</string>
+    <string name="cd_med_icon_dinner">저녁 아이콘</string>
+    <string name="cd_med_checked">복용 완료 체크됨</string>
+    <string name="cd_water_cup">물컵 채움 상태 아이콘</string>
+    <string name="cd_water_add">물 한 잔 추가 아이콘</string>
+</resources>
